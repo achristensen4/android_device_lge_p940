@@ -16,8 +16,8 @@ omap.audio.mic.sub=AMic1
 omap.audio.power=PingPong
 
 # Used for automagic internal configs
-ro.build.target_country=EU
-ro.build.target_operator=OPEN
+ro.build.target_country=USA
+ro.build.target_operator=Verizon
 
 # BT address path
 ro.bt.bdaddr_path=/sys/devices/platform/bd_address/bdaddr_if
